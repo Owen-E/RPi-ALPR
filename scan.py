@@ -10,7 +10,7 @@ sched = BlockingScheduler()
 from datetime import datetime
 
 # URL to submit license plate reports to
-regoURL = "https://chrysalid-bee-4342.dataplicity.io/processreader.php";
+regoURL = " SERVER URL HERE ";
 
 # Runs autonomously, every 15 seconds
 @sched.scheduled_job('interval', seconds=15)

@@ -6,7 +6,12 @@ Motionpic.py takes pictures when motion is detected. Scan.pi processes these, re
 Dependancies (will take roughly 6 hours to install the first three):
 
 openCV 3.2.0
+
 tesseract 3.03-rc1
+
 leptonica 1.7.0
+
 Dropbox-Uploader
+
 Dataplicity for remote access (for now)
+
